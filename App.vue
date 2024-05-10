@@ -10,6 +10,7 @@
 	export default {
 		onLaunch: function() {
 			consol.info('test commit')
+			consol.info('hhahaahh')
 			// #ifdef H5
 			console.log(
 				`%c hello uniapp %c v${version} `,
