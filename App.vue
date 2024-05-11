@@ -11,7 +11,7 @@
 		onLaunch: function() {
 			consol.info('WHY')
 			// #ifdef H5
-			consol.info('AI')
+			consol.info('HHHHH')
 			console.log(
 				`%c hello uniapp %c v${version} `,
 				'background:#35495e ; padding: 1px; border-radius: 3px 0 0 3px;  color: #fff',
