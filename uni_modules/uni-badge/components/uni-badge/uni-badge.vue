@@ -33,6 +33,7 @@
 	 */
 
 	export default {
+		console.info("测试提交")
 		name: 'UniBadge',
 		emits: ['click'],
 		props: {
